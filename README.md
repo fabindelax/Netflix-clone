@@ -20,6 +20,7 @@ Este é um projeto de uma aplicação web simples para listar e buscar filmes a 
 - HTML5
 - CSS3
 - JavaScript
+- Json
 
 ## Estrutura do Projeto
 
