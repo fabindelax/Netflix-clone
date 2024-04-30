@@ -1,4 +1,10 @@
 # Netflix-clone
+
+## Fábio Augusto Dias Nascimento
+## Guilherme Marques Fernandes
+## Paulo Vinicius Gomes Nogueira 
+## Maria Eduarda Castro 
+
 # Aplicação Filmes
 
 Este é um projeto de uma aplicação web simples para listar e buscar filmes a partir de um arquivo JSON de dados. A aplicação permite aos usuários visualizar uma lista de filmes e buscar filmes por título.
