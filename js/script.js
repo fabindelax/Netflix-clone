@@ -1,50 +1,66 @@
-let inputTouched = {
-    email: false,
-    password: false
-}
+function handler(e) {
+    e.preventDefault();
 
-const inputEmail = document.getElementById("inputEmail")
-const inputPassword = document.getElementById("inputPassword")
-const inputWrapperEmail = document.getElementById("input-wrapper-email")
-const inputWrapperPassword = document.getElementById("input-wrapper-password")
-const warningEmail = document.getElementById("warningEmail")
-const warningPassword = document.getElementById("warningPassword")
+    let movie = document.querySelector('.form__input').value;
 
-const inputOnBlur = (ev) =>{
-    if(inputTouched.email){
-        if(!validateEmail(inputEmail.value) && !validatePhone(inputEmail.value)){
-            warningEmail.style.display="block"
-            inputEmail.style.borderBottom='2px solid #e87c03'
+    if(movie) {
+
+        const _url = `http://www.omdbapi.com/?s=${movie}&apikey=b58710e2`;
+        const _options = {
+            method: 'GET',
+            mode: 'cors',
+            redirect: 'follow',
+            cache: 'default'
         }
-        else{
-            warningEmail.style.display="none"
-            inputEmail.style.borderBottom="none"
-        }
+
+
+        fetch(_url, _options) 
+            .then(function(response) {
+
+                // Tratamento de erro
+                if(!response.ok) throw new Error('Erro ao executar requisição');
+
+                // Retorne um objeto no formato json
+                return response.json();
+
+            })
+            // receber dados
+            .then(function(data) {
+                //console.log(data);
+
+                let newContent = '';
+                for(let i = 1; i < data.Search.length; i++) {
+                    newContent += `<li class="app-movies-all__card">`;
+                    newContent += `<figure class="app-movies-all__figure">`;
+                    newContent += `<img class="app-movies-all__thumb" src="${data.Search[i].Poster}"/>`;
+                    newContent += `</figure>`;
+                    newContent += `<legend class="app-movies-all__legend">`;
+                    newContent += `<span class="app-movies-all__year">${data.Search[i].Year}</span>`;
+                    newContent += `<h2 class="app-movies-all__title">${data.Search[i].Title}</h2>`;
+                    newContent += `</legend>`;
+                    newContent += `</li>`;
+                }
+
+                document.getElementById('movies').innerHTML = newContent;
+
+            })
+
+
+
+    } else {
+        alert('Digite um nome de filme!');
     }
-    if(inputTouched.password){
-        if(!(inputPassword.value.length >= 4 && inputPassword.value.length <= 60)){
-            warningPassword.style.display="block"
-            inputPassword.style.borderBottom='2px solid #e87c03'
-        }
-        else{
-            warningPassword.style.display="none"
-            inputPassword.style.borderBottom="none"
-        }
-    }
+
 }
 
-const inputOnFocus = (ev) =>{
-    inputTouched[ev.name] = true;
-}
 
-// Função para validar e-mail
-const validateEmail = email => {
-    const re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    return re.test(String(email).toLowerCase());
-}
 
-// Função para validar telefone
-const validatePhone = email => {
-    const re = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
-    return re.test(String(email).toLowerCase());
+
+
+
+
+window.onload = () => {
+
+    const submit = document.querySelector('.form__submit');
+    submit.addEventListener('click', handler);
 }
