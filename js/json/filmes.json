@@ -1,0 +1,430 @@
+[
+    {
+        "titulo": "Avatar",
+        "ano": 2009,
+        "duracaoEmMinutos": 162,
+        "genero": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "James Cameron",
+        "roteiristas": ["James Cameron"],
+        "atores": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver",
+            "Stephen Lang"
+        ],
+        "poster": "https://xl.movieposterdb.com/09_08/2009/499549/xl_499549_cd69e2ea.jpg",
+        "metascore": 83
+    },
+    {
+        "titulo": "Eu Sou a Lenda",
+        "ano": 2007,
+        "duracaoEmMinutos": 101,
+        "genero": [
+            "Drama",
+            "Horror",
+            "Ficção Científica"
+        ],
+        "diretor": "Francis Lawrence",
+        "roteiristas": [
+            "Mark Protosevich",
+            "Akiva Goldsman",
+            "Richard Matheson",
+            "John William Corrington",
+            "Joyce Hooper Corrington"
+        ],
+        "atores": [
+            "Will Smith",
+            "Alice Braga",
+            "Charlie Tahan",
+            "Salli Richardson-Whitfield"
+        ],
+        "poster": "https://xl.movieposterdb.com/07_12/2007/480249/xl_480249_66680d6b.jpg",
+        "metascore": 65
+    },
+    {
+        "titulo": "300",
+        "ano": 2006,
+        "duracaoEmMinutos": 117,
+        "genero": [
+            "Ação",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretor": "Zack Snyder",
+        "roteiristas": [
+            "Zack Snyder",
+            "Kurt Johnstad",
+            "Michael Gordon",
+            "Frank Miller",
+            "Lynn Varley"
+        ],
+        "atores": [
+            "Gerard Butler",
+            "Lena Headey",
+            "Dominic West",
+            "David Wenham"
+        ],
+        "poster": "https://xl.movieposterdb.com/07_09/2006/0416449/xl_0416449_ebba784f.jpg",
+        "metascore": 52
+    },
+    {
+        "titulo": "O Lobo de Wall Street",
+        "ano": 2013,
+        "duracaoEmMinutos": 180,
+        "genero": [
+            "Biografia",
+            "Comédia",
+            "Crime"
+        ],
+        "diretor": "Martin Scorsese",
+        "roteiristas": [
+            "Terence Winter",
+            "Jordan Belfort"
+        ],
+        "atores": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie",
+            "Matthew McConaughey"
+        ],
+        "poster": "https://xl.movieposterdb.com/13_11/2013/993846/xl_993846_6b55e2ea.jpg",
+        "metascore": 75
+    },
+    {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "duracaoEmMinutos": 169,
+        "genero": [
+            "Aventura",
+            "Drama",
+            "Ficção Científica"
+        ],
+        "diretor": "Christopher Nolan",
+        "roteiristas": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "atores": [
+            "Ellen Burstyn",
+            "Matthew McConaughey",
+            "Mackenzie Foy",
+            "John Lithgow"
+        ],
+        "poster": "https://xl.movieposterdb.com/14_09/2014/816692/xl_816692_6fbec03a.jpg",
+        "metascore": 74
+    },
+    {
+        "titulo": "À Procura da Felicidade",
+        "ano": 2006,
+        "duracaoEmMinutos": 117,
+        "genero": [
+            "Biografia",
+            "Drama"
+        ],
+        "diretor": "Gabriele Muccino",
+        "roteiristas": [
+            "Steve Conrad"
+        ],
+        "atores": [
+            "Will Smith",
+            "Jaden Smith"
+        ],
+        "poster": "https://xl.movieposterdb.com/07_12/2006/454921/xl_454921_9d11428d.jpg"
+    },
+    {
+        "titulo": "Antes do Amanhecer",
+        "ano": 1995,
+        "duracaoEmMinutos": 101,
+        "genero": [
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Richard Linklater",
+        "roteiristas": [
+            "Richard Linklater",
+            "Kim Krizan"
+        ],
+        "atores": [
+            "Ethan Hawke",
+            "Julie Delpy"
+        ],
+        "poster": "https://xl.movieposterdb.com/23_02/1995/112471/xl_before-sunrise-movie-poster_1fb3d59d.jpg"
+    },
+    {
+        "titulo": "Questão de Tempo",
+        "ano": 2013,
+        "duracaoEmMinutos": 123,
+        "genero": [
+            "Comédia",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretor": "Richard Curtis",
+        "roteiristas": [
+            "Richard Curtis"
+        ],
+        "atores": [
+            "Domhnall Gleeson",
+            "Rachel McAdams"
+        ],
+        "poster": "https://xl.movieposterdb.com/13_06/2013/2194499/xl_2194499_c0435606.jpg"
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "ano": 2005,
+        "duracaoEmMinutos": 129,
+        "genero": [
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Joe Wright",
+        "roteiristas": [
+            "Jane Austen",
+            "Deborah Moggach"
+        ],
+        "atores": [
+            "Keira Knightley",
+            "Matthew Macfadyen"
+        ],
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/e5a295dcc5441e9a1fd5907e191578d510ed7f8be46c5e85a5dd51354bfd3cb6.jpg"
+    },
+    {
+        "titulo": "Matrix",
+        "ano": 1999,
+        "duracaoEmMinutos": 136,
+        "genero": [
+            "Ação",
+            "Ficção Científica"
+        ],
+        "diretor": "Lana Wachowski, Lilly Wachowski",
+        "roteiristas": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "atores": [
+            "Keanu Reeves",
+            "Laurence Fishburne"
+        ],
+        "poster": "https://xl.movieposterdb.com/06_11/1999/0133093/xl_145384_0133093_fd241228.jpg"
+    },
+    {
+        "titulo": "A Viagem de Chihiro",
+        "ano": 2001,
+        "duracaoEmMinutos": 125,
+        "genero": [
+            "Animação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "Hayao Miyazaki",
+        "roteiristas": [
+            "Hayao Miyazaki"
+        ],
+        "atores": [
+            "Rumi Hiiragi",
+            "Miyu Irino"
+        ],
+        "poster": "https://xl.movieposterdb.com/14_05/2001/245429/xl_245429_233c79aa.jpg"
+    },
+    {
+        "titulo": "Carros",
+        "ano": 2006,
+        "duracaoEmMinutos": 117,
+        "genero": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretor": "John Lasseter, Joe Ranft",
+        "roteiristas": [
+            "John Lasseter",
+            "Joe Ranft"
+        ],
+        "atores": [
+            "Owen Wilson",
+            "Paul Newman"
+        ],
+        "poster": "https://xl.movieposterdb.com/15_12/2006/317219/xl_317219_18797820.jpg"
+    },
+    {
+        "titulo": "Parasita",
+        "ano": 2019,
+        "duracaoEmMinutos": 132,
+        "genero": [
+            "Comédia",
+            "Drama",
+            "Thriller"
+        ],
+        "diretor": "Bong Joon-ho",
+        "roteiristas": [
+            "Bong Joon-ho",
+            "Han Jin-won"
+        ],
+        "atores": [
+            "Song Kang-ho",
+            "Lee Sun-kyun"
+        ],
+        "poster": "https://xl.movieposterdb.com/21_11/2019/6751668/xl_6751668_0d0409c5.jpg"
+    },
+    {
+        "titulo": "A Chegada",
+        "ano": 2016,
+        "duracaoEmMinutos": 116,
+        "genero": [
+            "Drama",
+            "Ficção Científica"
+        ],
+        "diretor": "Denis Villeneuve",
+        "roteiristas": [
+            "Eric Heisserer"
+        ],
+        "atores": [
+            "Amy Adams",
+            "Jeremy Renner"
+        ],
+        "poster": "https://xl.movieposterdb.com/22_10/2016/2543164/xl_arrival-movie-poster_a18b5408.jpg"
+    },
+    {
+        "titulo": "Filhos da Esperança",
+        "ano": 2006,
+        "duracaoEmMinutos": 109,
+        "genero": [
+            "Ação",
+            "Drama",
+            "Ficção Científica"
+        ],
+        "diretor": "Alfonso Cuarón",
+        "roteiristas": [
+            "Alfonso Cuarón",
+            "Timothy J. Sexton"
+        ],
+        "atores": [
+            "Clive Owen",
+            "Julianne Moore"
+        ],
+        "poster": "https://xl.movieposterdb.com/13_03/2006/206634/xl_206634_af29190c.jpg"
+    },
+    {
+        "titulo": "Blade Runner 2049",
+        "ano": 2017,
+        "duracaoEmMinutos": 164,
+        "genero": [
+            "Drama",
+            "Mistério",
+            "Ficção Científica"
+        ],
+        "diretor": "Denis Villeneuve",
+        "roteiristas": [
+            "Hampton Fancher",
+            "Michael Green"
+        ],
+        "atores": [
+            "Ryan Gosling",
+            "Harrison Ford"
+        ],
+        "poster": "https://xl.movieposterdb.com/23_02/2018/8151756/xl_blade-runner-2049-designing-the-world-of-blade-runner-2049-movie-poster_078b7954.jpg"
+    },
+    {
+        "titulo": "Ela",
+        "ano": 2013,
+        "duracaoEmMinutos": 126,
+        "genero": [
+            "Drama",
+            "Romance",
+            "Ficção Científica"
+        ],
+        "diretor": "Spike Jonze",
+        "roteiristas": [
+            "Spike Jonze"
+        ],
+        "atores": [
+            "Joaquin Phoenix",
+            "Scarlett Johansson"
+        ],
+        "poster": "https://xl.movieposterdb.com/13_11/2013/1798709/xl_1798709_48f9f547.jpg"
+    },
+    {
+        "titulo": "Embriagados de Amor",
+        "ano": 2002,
+        "duracaoEmMinutos": 95,
+        "genero": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Paul Thomas Anderson",
+        "roteiristas": [
+            "Paul Thomas Anderson"
+        ],
+        "atores": [
+            "Adam Sandler",
+            "Emily Watson"
+        ],
+        "poster": "https://xl.movieposterdb.com/22_01/2002/272338/xl_272338_bb20bcda.jpg"
+    },
+    {
+        "titulo": "Borat",
+        "ano": 2006,
+        "duracaoEmMinutos": 84,
+        "genero": [
+            "Comédia"
+        ],
+        "diretor": "Larry Charles",
+        "roteiristas": [
+            "Sacha Baron Cohen",
+            "Anthony Hines",
+            "Peter Baynham",
+            "Dan Mazer"
+        ],
+        "atores": [
+            "Sacha Baron Cohen",
+            "Ken Davitian",
+            "Luenell"
+        ],
+        "poster": "https://xl.movieposterdb.com/07_10/2006/443453/xl_443453_7ea199e5.jpg"
+    },
+    {
+        "titulo": "50/50",
+        "ano": 2011,
+        "duracaoEmMinutos": 100,
+        "genero": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Jonathan Levine",
+        "roteiristas": [
+            "Will Reiser"
+        ],
+        "atores": [
+            "Joseph Gordon-Levitt",
+            "Seth Rogen",
+            "Anna Kendrick"
+        ],
+        "poster": "https://xl.movieposterdb.com/21_02/2011/1306980/xl_1306980_1ac06c4e.jpg"
+    },
+    {
+        "titulo": "Duelo de Titãs",
+        "ano": 2000,
+        "duracaoEmMinutos": 113,
+        "genero": [
+            "Biografia",
+            "Drama",
+            "Esportes"
+        ],
+        "diretor": "Boaz Yakin",
+        "roteiristas": [
+            "Gregory Allen Howard"
+        ],
+        "atores": [
+            "Denzel Washington",
+            "Will Patton",
+            "Wood Harris"
+        ],
+        "poster": "https://xl.movieposterdb.com/08_09/2000/210945/xl_210945_d59653b1.jpg"
+    }
+]
