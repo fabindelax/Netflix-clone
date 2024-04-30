@@ -9,14 +9,16 @@
             "Fantasia"
         ],
         "diretor": "James Cameron",
-        "roteiristas": ["James Cameron"],
+        "roteiristas": [
+            "James Cameron"
+        ],
         "atores": [
             "Sam Worthington",
             "Zoe Saldana",
             "Sigourney Weaver",
             "Stephen Lang"
         ],
-        "poster": "https://giphy.com/gifs/Avatar-avatar-james-cameron-the-way-of-water-aF3sxYuPo3gNeksFyz",
+        "poster": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RsNXpoOGh4Y2tzbDlwajl4MHU2dWt1Y2VkM3RrdTVmdDRidzY0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aF3sxYuPo3gNeksFyz/giphy.gif",
         "metascore": 83
     },
     {
@@ -42,7 +44,7 @@
             "Charlie Tahan",
             "Salli Richardson-Whitfield"
         ],
-        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmelier.com%2Fbr%2Fnoticias%2Feu-sou-a-lenda-sequencia&psig=AOvVaw1sOZG-ZyQOaEhH-qAtmETM&ust=1714595627983000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC3-NTk6oUDFQAAAAAdAAAAABAE",
+        "poster": "https://xl.movieposterdb.com/07_12/2007/480249/xl_480249_66680d6b.jpgs",
         "metascore": 65
     },
     {
@@ -68,7 +70,7 @@
             "Dominic West",
             "David Wenham"
         ],
-        "poster": "https://giphy.com/gifs/300movie-film-battle-tIUDjlhDzfrVK",
+        "poster": "https://xl.movieposterdb.com/07_09/2006/0416449/xl_0416449_ebba784f.jpg",
         "metascore": 52
     },
     {
@@ -91,7 +93,7 @@
             "Margot Robbie",
             "Matthew McConaughey"
         ],
-        "poster": "https://giphy.com/gifs/the-wolf-of-wall-street-W12WAzuqod9VS",
+        "poster": "https://xl.movieposterdb.com/13_11/2013/993846/xl_993846_6b55e2ea.jpg",
         "metascore": 75
     },
     {

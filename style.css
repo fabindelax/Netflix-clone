@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background-image: url('imagem/bg.jpeg');
+    background-image: url('img/bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -113,7 +113,7 @@ main:after {
 
 .app-movies-all__figure {
     height: 230px;
-    box-shadow: 0 0px 9px 3px rgb(255, 255, 255, 0.23);
+    box-shadow: 0 0px 9px 3px rgba(255, 255, 255, 0.23);
 }
 
 .app-movies-all__thumb {
